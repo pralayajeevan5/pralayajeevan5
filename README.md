@@ -13,6 +13,5 @@
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - 💻 &nbsp; <samp>Passionate about Technology.</samp>
-- 👨‍🎓 &nbsp; <samp>My academic life.[**here**](https://github.com/mupezzuol/list-of-courses-certifications)</samp>
 
 ---
